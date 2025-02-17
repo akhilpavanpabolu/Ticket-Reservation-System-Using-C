@@ -35,14 +35,9 @@ int main_train()
 	printf("\t\t=================================================\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|        -----------------------------          |\n");
-	printf("\t\t|       IIT P TRAIN TICKET RERS. SYSTEM         |\n");
+	printf("\t\t|        TRAIN TICKET                           |\n");
+	printf("\t\t|                     RESERVATION SYSTEM        |\n");
 	printf("\t\t|        -----------------------------          |\n");
-	printf("\t\t|    FOR STUDENTS AND STAFF OF UNIVERSITY       |\n");
-	printf("\t\t|                                               |\n");
-	printf("\t\t|                                               |\n");
-	printf("\t\t|              BROUGHT TO YOU BY                |\n");
-	printf("\t\t|         |CS/PDS PROJECT P20 GROUP|            |\n");
-	printf("\t\t|                                               |\n");
 	printf("\t\t=================================================\n\n\n");
 		
 	    
